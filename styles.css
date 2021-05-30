@@ -1,0 +1,42 @@
+/* body {
+  color: rgb(255, 0, 0);
+}
+.black-border {
+  border: 5px solid black;
+}
+#green-background {
+  background-color: green;
+} */
+body {
+  font-family: monospace;
+  background-color: rgb(240, 240, 240);
+}
+
+.titles {
+  text-align: center;
+  font-size: 260%;
+}
+.context {
+  text-align: center;
+  font-size: 130%;
+}
+.nav {
+  background-color: skyblue;
+  font-size: 130%;
+  height: 30px;
+  padding-left: 10%;
+}
+#copy {
+  text-align: center;
+  font-size: 120%;
+}
+#section-color {
+  background-color: grey;
+}
+#imgset {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
